@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 18 yo software engineer.<br>I live in Turkmenistan, Ashgabat.<br>I am into this branch for 3 years.<br>Also interested with problem-solving.<br><br>🔭 I’m currently working on STP project<br>🌱 I’m currently learning Laravel / Flutter<br>💬 Ask me about what you want<br>⚡ Keeping things light and fun is actually healthy<br>
+I am 19 yo software engineer.<br>I live in Turkmenistan, Ashgabat.<br>I am into this branch for 3 years.<br>Also interested with problem-solving.<br><br>🔭 I’m currently working on STP project<br>🌱 I’m currently learning Laravel / Flutter<br>💬 Ask me about what you want<br>⚡ Keeping things light and fun is actually healthy<br>
 
 
 ## 🌐 Socials:
